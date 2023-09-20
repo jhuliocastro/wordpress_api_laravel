@@ -1,0 +1,20 @@
+{
+    "name": "jhuliocastro/wordpress",
+    "description": "Consult API Wordpress for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jhuliocastro\\Wordpress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jhúlio Castro",
+            "email": "jhuliocastro@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0.0"
+    }
+}
