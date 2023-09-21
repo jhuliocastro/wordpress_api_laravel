@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Jhuliocastro\\Wordpress\\": "src/"
+            "jhuliocastro\\wordpress\\": "src/"
         }
     },
     "authors": [
@@ -15,6 +15,7 @@
         }
     ],
     "require": {
-        "php": ">=8.0.0"
+        "php": ">=8.0.0",
+        "guzzlehttp/guzzle": "^7.0"
     }
 }

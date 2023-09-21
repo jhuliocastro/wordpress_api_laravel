@@ -4,7 +4,7 @@ namespace jhuliocastro\wordpress;
 use GuzzleHttp\Client;
 use GuzzleHttp\Exception\GuzzleException;
 
-class Wordpress
+class Menu
 {
     protected string $url;
 
